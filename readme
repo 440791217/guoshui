@@ -1,0 +1,5 @@
+第一次使用时候，按下面步骤进行
+1.cd myvue
+2.npm install
+3.npm run dev
+恭喜，一切顺利的话，工程开始运行
